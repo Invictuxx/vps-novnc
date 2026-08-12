@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://periodic-tape-les-tunes.trycloudflare.com/vnc.html
+URL       : https://abs-clinic-whether-suites.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 12:38:23
+Created   : 2026-08-12 22:26:39
 =======================================================
