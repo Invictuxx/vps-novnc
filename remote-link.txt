@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arnold-frequent-prospective-core.trycloudflare.com/vnc.html
+URL       : https://statistical-informative-transform-routine.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:57:50
+Created   : 2026-08-19 03:16:27
 =======================================================
