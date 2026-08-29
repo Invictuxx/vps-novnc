@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://calgary-authority-develops-recognised.trycloudflare.com/vnc.html
+URL       : https://schedule-administered-offices-avoid.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 14:58:27
+Created   : 2026-08-29 18:15:34
 =======================================================
