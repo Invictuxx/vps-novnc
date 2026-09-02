@@ -1,1 +1,9 @@
-TUNNEL_FAILED_20260902_093703
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://thereby-fitted-eve-remarks.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-09-02 14:11:06
+=======================================================
