@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eggs-article-latex-violation.trycloudflare.com/vnc.html
+URL       : https://anatomy-temporary-pmid-field.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 03:13:48
+Created   : 2026-09-05 08:52:57
 =======================================================
