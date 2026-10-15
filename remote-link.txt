@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shadows-naturally-apt-beef.trycloudflare.com/vnc.html
+URL       : https://for-lows-right-appropriate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 23:03:46
+Created   : 2026-10-15 03:28:44
 =======================================================
